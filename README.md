@@ -1,6 +1,9 @@
 # TrackRate
 Keep track of open/click rates
 
+## Alpha
+Please don't use this is still in development
+
 ## Installation
 Add this line to your application's Gemfile:
 
